@@ -7,6 +7,7 @@
 - 🐱 [Cat-Counter-Watch](https://github.com/MaMuk/Cat-Counter-Watch) – A containerized, CPU-only vision service that detects cats in live streams and triggers configurable automation events.
 - 🦑 [SepiaCore](https://github.com/MaMuk/SepiaCore) – An entity-agnostic PHP/Vue framework for rapidly building relational data applications through a configurable web interface.
 - 🤖 [mistral-demo](https://github.com/MaMuk/mistral-demo) – A local-LLM powered comment triage system that demonstrates explainable, privacy-preserving AI assistance for CMS workflows.
+- 🎙 [voice-journal-server](https://github.com/MaMuk/voice-journal-server) + 📱[voice-journal-app](https://github.com/MaMuk/voice-journal-app) - Self-hosted offline journaling and dictation transcription app with faster-whisper and Android client for the Voice Journal API. 
 - 🎨 [BrutalPictureJava](https://github.com/MaMuk/BrutalPictureJava) – A Java-based evolutionary image approximation engine that reconstructs visuals using optimized semi-transparent triangle primitives.
 - 🥗 [AdaptiveTDEETracker](https://github.com/MaMuk/AdaptiveTDEETracker) – A mobile-focused Vue app that adaptively estimates TDEE from real weight trends for data-driven calorie targeting.
 - 🧾 [ExpenseTracker](https://github.com/MaMuk/ExpenseTracker) – An OCR-backed full-stack expense system combining Laravel, Vue, and PaddleOCR for automated receipt digitization.
