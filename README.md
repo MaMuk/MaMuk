@@ -1,8 +1,8 @@
 # Hi 👋
 ## My Projects
-
- - 🌕 [LuaSandboxWrapper](https://github.com/MaMuk/LuaSandboxWrapper) – A pragmatic PHP wrapper around LuaSandbox that enables controlled, production-ready embedded Lua execution inside PHP applications.
- - 📥 [Threadindex](https://github.com/MaMuk/Threadindex) – A privacy-first, offline TUI inbox for indexing and navigating exported LLM conversations with powerful filtering and tagging.
+- 🪟 [KDE Window Size Shortcuts](https://github.com/MaMuk/kde-window-size-shortcuts) – KDE Window Size Shortcuts is a KWin script for Plasma 6 on Wayland. It adds keyboard shortcuts for resizing and centering the active window, cycling all windows through cascade, grid, column, and row layouts, and restoring minimized windows. Preset sizes adapt to the available work area and each monitor is arranged independently.
+- 🌕 [LuaSandboxWrapper](https://github.com/MaMuk/LuaSandboxWrapper) – A pragmatic PHP wrapper around LuaSandbox that enables controlled, production-ready embedded Lua execution inside PHP applications.
+- 📥 [Threadindex](https://github.com/MaMuk/Threadindex) – A privacy-first, offline TUI inbox for indexing and navigating exported LLM conversations with powerful filtering and tagging.
 - ✍️ [nNoteDecoder](https://github.com/MaMuk/nNoteDecoder) – A Java toolchain that reverse-engineers and converts MobiScribe `.note` files into structured, exportable SVG pages.
 - 🐱 [Cat-Counter-Watch](https://github.com/MaMuk/Cat-Counter-Watch) – A containerized, CPU-only vision service that detects cats in live streams and triggers configurable automation events.
 - 🦑 [SepiaCore](https://github.com/MaMuk/SepiaCore) – An entity-agnostic PHP/Vue framework for rapidly building relational data applications through a configurable web interface.
